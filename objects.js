@@ -8,7 +8,7 @@ var playlist = {Korn: "Fallen Away"};
 
 function updatePlaylist(playlist, artisName, songTitle){
   
-  playlis[artisName] = "songTitle";
+  playlist[artisName] = "songTitle";
   
 }
 
