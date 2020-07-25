@@ -6,5 +6,9 @@ var playlist = {Korn: "Fallen Away"};
 
 //Updated playlistadds the 'artisName: songTitle' key value pair to Object 
 
-playlist.Korn = ["Romeo"];
+function updatePlaylist(playlist, artisName, songTitle){
+  
+  playlis[artisName] = "songTitle";
+  
+}
 
